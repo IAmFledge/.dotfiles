@@ -11,4 +11,4 @@ alias be="bundle exec"
 alias btoff="sudo kextunload -b com.apple.iokit.BroadcomBluetoothHostControllerUSBTransport"
 alias bton="sudo kextload -b com.apple.iokit.BroadcomBluetoothHostControllerUSBTransport"
 
-export EDITOR='vi'
+alias config='/usr/bin/git' --git-dir=$HOME/.dotfiles --work-tree=$HOME
