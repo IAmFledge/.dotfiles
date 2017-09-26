@@ -1,0 +1,4 @@
+alias trash="rmtrash"
+alias del="rmtrash"
+
+alias rm="echo No! BAD ED! - Not going to delete: "
