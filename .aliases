@@ -1,0 +1,14 @@
+alias bl="bash -l"
+alias ll="ls -lah"
+
+alias ad="atom ."
+
+alias bu='brew update'
+alias bug='brew upgrade'
+
+alias be="bundle exec"
+
+alias btoff="sudo kextunload -b com.apple.iokit.BroadcomBluetoothHostControllerUSBTransport"
+alias bton="sudo kextload -b com.apple.iokit.BroadcomBluetoothHostControllerUSBTransport"
+
+export EDITOR='vi'
